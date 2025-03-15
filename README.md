@@ -33,5 +33,6 @@ class MyApp extends StatelessWidget {
 </code>
 </pre>
 
-![Sample Image](https://user-images.githubusercontent.com/12345678/1. Flutter SDK 설치.png)
-
+4. "HelloWold" 앱 결과 화면
+5. 
+![HelloWorld](https://github.com/user-attachments/assets/789b1232-b7bc-44fb-a892-b6da5e84703b)
